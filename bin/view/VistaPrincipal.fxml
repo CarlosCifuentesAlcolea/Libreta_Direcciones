@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="582.0" prefWidth="951.0" stylesheets="@../css/DarkTheme.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.VistaPrincipalController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="%menu.item.archivo">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#nuevo" text="%menu.item.nuevo" />
+                  <MenuItem mnemonicParsing="false" onAction="#abrir" text="%menu.item.abrir" />
+                  <MenuItem mnemonicParsing="false" onAction="#abrirBD" text="%menu.item.abrirdb" />
+                  <MenuItem mnemonicParsing="false" onAction="#guardarComo" text="%menu.item.guardarcomo" />
+                  <MenuItem mnemonicParsing="false" onAction="#guardar" text="%menu.item.guardar" />
+                  <MenuItem mnemonicParsing="false" onAction="#salir" text="%menu.item.salir" />
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false" text="%menu.item.estadisticas">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#grafico" text="%menu.item.grafico" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="%menu.item.informes">
+                  <MenuItem mnemonicParsing="false" onAction="#pdf" text="%menu.item.pdf" />
+                  <MenuItem mnemonicParsing="false" onAction="#generarJasperAll" text="%menu.item.jasper" />
+            </Menu>
+            <Menu mnemonicParsing="false" text="%menu.item.idioma">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#elegirES" text="%menu.item.idioma.es" />
+                  <MenuItem mnemonicParsing="false" onAction="#elegirEN" text="%menu.item.idioma.en" />
+                  <MenuItem mnemonicParsing="false" onAction="#elegirFR" text="%menu.item.idioma.fr" />
+              </items>
+            </Menu>
+          <Menu mnemonicParsing="false" text="%menu.item.ayuda">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#about" text="%menu.item.about" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>
