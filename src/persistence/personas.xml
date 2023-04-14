@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personas>
+    <persona>
+        <apellidos>García Rincón</apellidos>
+        <ciudad>some city</ciudad>
+        <codigoPostal>28440</codigoPostal>
+        <direccion>Mi dirección</direccion>
+        <fechaDeNacimiento>1974-06-15</fechaDeNacimiento>
+        <nombre>Jairo</nombre>
+    </persona>
+    <persona>
+        <apellidos>Pérez Martínez</apellidos>
+        <ciudad>some city</ciudad>
+        <codigoPostal>28440</codigoPostal>
+        <direccion>Mi dirección</direccion>
+        <fechaDeNacimiento>1974-06-15</fechaDeNacimiento>
+        <nombre>Juan</nombre>
+    </persona>
+    <persona>
+        <apellidos>Chenier López</apellidos>
+        <ciudad>some city</ciudad>
+        <codigoPostal>28440</codigoPostal>
+        <direccion>Mi dirección</direccion>
+        <fechaDeNacimiento>1974-06-15</fechaDeNacimiento>
+        <nombre>Andrea</nombre>
+    </persona>
+    <persona>
+        <apellidos>González Pla</apellidos>
+        <ciudad>some city</ciudad>
+        <codigoPostal>28440</codigoPostal>
+        <direccion>Mi dirección</direccion>
+        <fechaDeNacimiento>1974-06-15</fechaDeNacimiento>
+        <nombre>Emilio</nombre>
+    </persona>
+    <persona>
+        <apellidos>de Santos Sánchez</apellidos>
+        <ciudad>some city</ciudad>
+        <codigoPostal>28440</codigoPostal>
+        <direccion>Mi dirección</direccion>
+        <fechaDeNacimiento>1974-06-15</fechaDeNacimiento>
+        <nombre>Mónica</nombre>
+    </persona>
+    <persona>
+        <apellidos>sa</apellidos>
+        <ciudad>sd</ciudad>
+        <codigoPostal>28440</codigoPostal>
+        <direccion>dsd</direccion>
+        <fechaDeNacimiento>2020-06-19</fechaDeNacimiento>
+        <nombre>Angel</nombre>
+    </persona>
+    <persona>
+        <apellidos>prima</apellidos>
+        <ciudad>menor</ciudad>
+        <codigoPostal>30530</codigoPostal>
+        <direccion>la </direccion>
+        <fechaDeNacimiento>2020-01-20</fechaDeNacimiento>
+        <nombre>Mi</nombre>
+    </persona>
+    <persona>
+        <apellidos>Ato</apellidos>
+        <ciudad>Abaran</ciudad>
+        <codigoPostal>30540</codigoPostal>
+        <direccion>Alcadia, 1</direccion>
+        <fechaDeNacimiento>2020-01-01</fechaDeNacimiento>
+        <nombre>Ana</nombre>
+    </persona>
+</personas>
